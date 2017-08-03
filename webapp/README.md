@@ -1,0 +1,1 @@
+https://github.com/inProgress-team/react-native-meteor/issues/248
